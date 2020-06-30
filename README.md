@@ -1,3 +1,4 @@
 # jokenpo
 
-It's a test to do a JoKenPo in the university
+It's a test to do a JoKenPo in the university using UNITY
+
